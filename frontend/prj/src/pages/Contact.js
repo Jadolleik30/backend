@@ -67,7 +67,7 @@ function Contact() {
 
         {submitted && (
           <p className="success-text">
-            Thank you! Your message has been received (demo only).
+            Thank you! Your message has been received.
           </p>
         )}
       </form>
